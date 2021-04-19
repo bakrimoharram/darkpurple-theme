@@ -1,7 +1,16 @@
 {
     "name": "purple-dark-theme",
-    "displayName": "bakri",
+    "displayName": "bakrimoharram",
+    "publisher": "bakrimoharram",
     "description": "purple dark theme",
+    "author": {
+        "name": "Bakri Moharram",
+        "email": "bakri_moharram@hotmail.com"
+    },
+    "repository": {
+        "url": "https://github.com/bakrimoharram/darkpurple-theme.git",
+        "type": "git"
+    },
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.55.0"
